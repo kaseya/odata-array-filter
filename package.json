@@ -2,17 +2,13 @@
   "name": "odata-array-filter",
   "description": "TODO",
   "version": "0.0.1",
-  "homepage": "https://github.com/jasongardnerlv/odata-array-filter",
-  "author": {
-    "name": "Jason Gardner",
-    "email": "jason.gardner.lv@gmail.com"
-  },
+  "homepage": "https://github.com/kaseya/odata-array-filter",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jasongardnerlv/odata-array-filter.git"
+    "url": "git://github.com/kaseya/odata-array-filter.git"
   },
   "bugs": {
-    "url": "https://github.com/jasongardnerlv/odata-array-filter/issues"
+    "url": "https://github.com/kaseya/odata-array-filter/issues"
   },
   "license": "MIT",
   "main": "lib/odata-array-filter",
